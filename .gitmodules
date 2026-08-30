@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cmahalanobis"]
 	path = cmahalanobis
-	url = https://github.com/cran/cmahalanobis
+	url = https://github.com/hflavio12/cmahalanobis
